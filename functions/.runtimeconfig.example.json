@@ -1,0 +1,9 @@
+{
+  "stripe": {
+    "pro_product_id": "prod_KwDeBxTezIpRPZ",
+    "publishable_key": "pk_test_51KGLATJfXJlOjClUZjp5iwv34rkbQUwrTPV6uVcYbFoGw54tRQLeaMjKrdFTjzHfGss8wi3GYtY5AkbAeKSj3xbw0061QcQOnh",
+    "webhook_secret": "we_1KpxCjJfXJlOjClUxOchY2jd",
+    "test_key": "sk_test_51KGLATJfXJlOjClUStSn2z1yMOrakgZrLBynIpj4AXu5JWuyDjQEoF8vlcXbq8egTo3djnsJtLhDxaDhNAK0Zkc000CiNUB6KQ",
+    "secret": "sk_test_51KGLATJfXJlOjClUStSn2z1yMOrakgZrLBynIpj4AXu5JWuyDjQEoF8vlcXbq8egTo3djnsJtLhDxaDhNAK0Zkc000CiNUB6KQ"
+  }
+}
